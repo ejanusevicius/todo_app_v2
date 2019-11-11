@@ -1,0 +1,14 @@
+.SingleTask {
+    margin: 0.5rem auto;
+    font-size: 1.6rem;
+    user-select: none;
+}
+
+.completed {
+    color: royalblue;
+}
+
+.UpdateButton {
+    color: black;
+    cursor: pointer;
+}
